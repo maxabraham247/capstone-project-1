@@ -1,4 +1,4 @@
-# capstone-project-1
+# POS System With Multi-User Access and Daily Sales Report
 # 🏪 TOKO SUKSES SELALU BERJAYA  
 ### A Python-based Point of Sale (POS) System with Multi-User Access and Daily Sales Report  
 
